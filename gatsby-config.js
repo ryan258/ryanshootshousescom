@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: "/ryanshootshousescom",
+  // pathPrefix: "/ryanshootshousescom",
   siteMetadata: {
     title: `Ryan Shoots Houses`,
     description: `Better media, quicker sales!`,
