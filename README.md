@@ -5,7 +5,7 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's default starter
+  Ryan Shoots Houses... with cameras!
 </h1>
 
-Congratulations you found the epicenter of my real estate photography website.
+Congratulations you found the epicenter of my real estate photography website, it's built using GatsbyJS and you should give me a call if you'd like me to shoot some houses for you.
