@@ -1,8 +1,6 @@
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
-  <a href="https://www.gatsbyjs.org">
-    <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
-  </a>
+  <img alt="Gatsby" src="https://www.gatsbyjs.org/monogram.svg" width="60" />
 </p>
 <h1 align="center">
   Ryan Shoots Houses... with cameras!
