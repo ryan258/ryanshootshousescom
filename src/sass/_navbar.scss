@@ -32,21 +32,21 @@
 	@include media-breakpoint-up(lg) {
 		// Base styling for the navbar - screen sizes greater than the large breakpoint
 		box-shadow: none;
-		background-color: transparent;
-		.navbar-brand {
-			color: fade-out($white, .3);
-			&:hover {
-				color: $white;
-			}
-		}
+		// background-color: transparent;
+		// .navbar-brand {
+		// 	color: fade-out($white, .3);
+		// 	&:hover {
+		// 		color: $white;
+		// 	}
+		// }
 		.navbar-nav {
 			.nav-item {
 				.nav-link {
-					color: fade-out($white, .3);
+					// color: fade-out($white, .3);
 					padding: 0 1rem;
-					&:hover {
-						color: $white;
-					}
+					// &:hover {
+					// 	color: $white;
+					// }
 				}
 				&:last-child {
 					.nav-link {
