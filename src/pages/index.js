@@ -99,7 +99,7 @@ export default class IndexPage extends React.Component {
                       Category
                     </div>
                     <div className="project-name">
-                      Project Name
+                      Front Exterior
                     </div>
                   </div>
                 </a>
